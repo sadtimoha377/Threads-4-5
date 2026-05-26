@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6237A2E8-A2A5-AB8A-1C88-0A4ACEE096A9}|DancingProgressBars\\DancingProgressBars.csproj|c:\\users\\mcalchemist\\source\\repos\\dancingprogressbars\\dancingprogressbars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6237A2E8-A2A5-AB8A-1C88-0A4ACEE096A9}|DancingProgressBars\\DancingProgressBars.csproj|solutionrelative:dancingprogressbars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6237A2E8-A2A5-AB8A-1C88-0A4ACEE096A9}|DancingProgressBars\\DancingProgressBars.csproj|c:\\users\\mcalchemist\\source\\repos\\dancingprogressbars\\dancingprogressbars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6237A2E8-A2A5-AB8A-1C88-0A4ACEE096A9}|DancingProgressBars\\DancingProgressBars.csproj|solutionrelative:dancingprogressbars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AFAC8FA-29D9-4E59-A799-744FDE523979}|DancingProgressBars\\DancingProgressBars.csproj|C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\dancingprogressbars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2AFAC8FA-29D9-4E59-A799-744FDE523979}|DancingProgressBars\\DancingProgressBars.csproj|solutionrelative:dancingprogressbars\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F379235E-36FF-43C6-9828-B83D5D3DC023}|HorseRace\\HorseRace.csproj|c:\\users\\mcalchemist\\source\\repos\\dancingprogressbars\\horserace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F379235E-36FF-43C6-9828-B83D5D3DC023}|HorseRace\\HorseRace.csproj|solutionrelative:horserace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F379235E-36FF-43C6-9828-B83D5D3DC023}|HorseRace\\HorseRace.csproj|c:\\users\\mcalchemist\\source\\repos\\dancingprogressbars\\horserace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F379235E-36FF-43C6-9828-B83D5D3DC023}|HorseRace\\HorseRace.csproj|solutionrelative:horserace\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F379235E-36FF-43C6-9828-B83D5D3DC023}|HorseRace\\HorseRace.csproj|c:\\users\\mcalchemist\\source\\repos\\dancingprogressbars\\horserace\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F379235E-36FF-43C6-9828-B83D5D3DC023}|HorseRace\\HorseRace.csproj|solutionrelative:horserace\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC45E4BE-6F54-477F-9FF8-870020525488}|ConsoleGame\\ConsoleGame.csproj|c:\\users\\mcalchemist\\source\\repos\\dancingprogressbars\\consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC45E4BE-6F54-477F-9FF8-870020525488}|ConsoleGame\\ConsoleGame.csproj|solutionrelative:consolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +19,16 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\DancingProgressBars\\Form1.cs",
-              "RelativeDocumentMoniker": "DancingProgressBars\\Form1.cs",
-              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\DancingProgressBars\\Form1.cs",
-              "RelativeToolTip": "DancingProgressBars\\Form1.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAmwHYAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\ConsoleGame\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleGame\\Program.cs",
+              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\ConsoleGame\\Program.cs",
+              "RelativeToolTip": "ConsoleGame\\Program.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T08:36:15.553Z",
+              "WhenOpened": "2026-05-26T08:42:13.708Z",
+              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\DancingProgressBars\\Form1.cs",
-              "RelativeDocumentMoniker": "DancingProgressBars\\Form1.cs",
-              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\DancingProgressBars\\Form1.cs [Design]",
-              "RelativeToolTip": "DancingProgressBars\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T08:36:12.758Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\HorseRace\\Form1.cs",
-              "RelativeDocumentMoniker": "HorseRace\\Form1.cs",
-              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\HorseRace\\Form1.cs [Design]",
-              "RelativeToolTip": "HorseRace\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T08:34:49.228Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\HorseRace\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "HorseRace\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\HorseRace\\Form1.Designer.cs",
-              "RelativeToolTip": "HorseRace\\Form1.Designer.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAUwKEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T08:33:33.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\HorseRace\\Form1.cs",
-              "RelativeDocumentMoniker": "HorseRace\\Form1.cs",
-              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\HorseRace\\Form1.cs",
-              "RelativeToolTip": "HorseRace\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwFwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T08:31:49.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\DancingProgressBars\\Form1.cs",
-              "RelativeDocumentMoniker": "DancingProgressBars\\Form1.cs",
-              "ToolTip": "C:\\Users\\mcalchemist\\source\\repos\\DancingProgressBars\\DancingProgressBars\\Form1.cs [Design]",
-              "RelativeToolTip": "DancingProgressBars\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T07:54:17.277Z"
             }
           ]
         }

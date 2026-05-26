@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ConsoleGame/ConsoleGame.csproj" Id="ac45e4be-6f54-477f-9ff8-870020525488" />
   <Project Path="DancingProgressBars/DancingProgressBars.csproj" />
   <Project Path="HorseRace/HorseRace.csproj" Id="f379235e-36ff-43c6-9828-b83d5d3dc023" />
 </Solution>
