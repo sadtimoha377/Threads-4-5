@@ -1,0 +1,16 @@
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\bin\Debug\net10.0-windows\DancingProgressBars.exe
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\bin\Debug\net10.0-windows\DancingProgressBars.deps.json
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\bin\Debug\net10.0-windows\DancingProgressBars.runtimeconfig.json
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\bin\Debug\net10.0-windows\DancingProgressBars.dll
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\bin\Debug\net10.0-windows\DancingProgressBars.pdb
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.Form1.resources
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.csproj.GenerateResource.cache
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.AssemblyInfoInputs.cache
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.AssemblyInfo.cs
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.csproj.CoreCompileInputs.cache
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.dll
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\refint\DancingProgressBars.dll
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.pdb
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.genruntimeconfig.cache
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\ref\DancingProgressBars.dll
