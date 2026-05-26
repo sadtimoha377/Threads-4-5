@@ -12,12 +12,19 @@ namespace DancingProgressBars
 
         Random random = new Random();
 
+        bool stop = false;
+
+        ManualResetEvent pauseEvent = new ManualResetEvent(true);
+
         public Form1()
         {
             InitializeComponent();
 
             btnCreate.Click += btnCreate_Click;
             btnStart.Click += btnStart_Click;
+            btnPause.Click += btnPause_Click;
+            btnResume.Click += btnResume_Click;
+            btnStop.Click += btnStop_Click;
         }
 
         private void btnCreate_Click(object sender, EventArgs e)
@@ -48,8 +55,14 @@ namespace DancingProgressBars
 
         private void btnStart_Click(object sender, EventArgs e)
         {
+            stop = false;
+
+            pauseEvent.Set();
+
             foreach (var bar in bars)
             {
+                bar.Value = 0;
+
                 Task.Run(() =>
                 {
                     FillBar(bar);
@@ -57,10 +70,32 @@ namespace DancingProgressBars
             }
         }
 
+        private void btnPause_Click(object sender, EventArgs e)
+        {
+            pauseEvent.Reset();
+        }
+
+        private void btnResume_Click(object sender, EventArgs e)
+        {
+            pauseEvent.Set();
+        }
+
+        private void btnStop_Click(object sender, EventArgs e)
+        {
+            stop = true;
+        }
+
         void FillBar(ProgressBar bar)
         {
             while (bar.Value < 100)
             {
+                if (stop)
+                {
+                    break;
+                }
+
+                pauseEvent.WaitOne();
+
                 int step = random.Next(1, 10);
 
                 Invoke(new Action(() =>
@@ -77,6 +112,11 @@ namespace DancingProgressBars
 
                 Thread.Sleep(random.Next(100, 400));
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

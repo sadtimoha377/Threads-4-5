@@ -14,3 +14,4 @@ C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\De
 C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.pdb
 C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.genruntimeconfig.cache
 C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\ref\DancingProgressBars.dll
+C:\Users\mcalchemist\source\repos\DancingProgressBars\DancingProgressBars\obj\Debug\net10.0-windows\DancingProgressBars.sourcelink.json

@@ -1,0 +1,17 @@
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.Form1.resources
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.csproj.GenerateResource.cache
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.AssemblyInfoInputs.cache
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.AssemblyInfo.cs
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.sourcelink.json
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\bin\Debug\net10.0-windows\HorseRace.exe
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\bin\Debug\net10.0-windows\HorseRace.deps.json
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\bin\Debug\net10.0-windows\HorseRace.runtimeconfig.json
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\bin\Debug\net10.0-windows\HorseRace.dll
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\bin\Debug\net10.0-windows\HorseRace.pdb
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.dll
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\refint\HorseRace.dll
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.pdb
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\HorseRace.genruntimeconfig.cache
+C:\Users\mcalchemist\source\repos\DancingProgressBars\HorseRace\obj\Debug\net10.0-windows\ref\HorseRace.dll

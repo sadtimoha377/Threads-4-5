@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DancingProgressBars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c427290557dae6fc608c35a7630403aaa96cf33e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DancingProgressBars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DancingProgressBars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
